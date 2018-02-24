@@ -246,13 +246,10 @@
     }
 
     .sidebar {
-        order: 2;
-        background-color: #ffffff; 
         text-align: center;
         width: 80%;
         padding-left: 25px;
         padding-right: 25px;
-        margin-top: 0px;
         margin-bottom: 112px;
     }
 
